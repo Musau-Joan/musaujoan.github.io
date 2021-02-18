@@ -15,4 +15,4 @@ The language used in the site making was HTML and styling through CSS.
 In case of any issues, you can reach me through this email address.(musaujoan27@gmail.com)
 MIT License
 Copyright (c) {2021} **{Musau-Joan}**
-https://github.com/Musau-Joan/First-IP.git /--a link to the live website on github pages--/
+https://musaujoanip.netlify.app//--a link to the live website on github pages--/
